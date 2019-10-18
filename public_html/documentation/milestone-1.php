@@ -24,7 +24,6 @@
 <p>Causes: Being good to the environment & supporting small businesses.  (She volunteered at the humane society before her kids were born.)</p>
 <p>Frustrations and needs: Sabina is a little overwhelmed by parenting and blogging.  She's always looking for things to make her life easier.  She needs something for her 1 year-old to stand on so he can 'help' when she's cooking.</p>
 <p>Goals: She's dedicated to being the best mom she can and wants to make sure she gives her kids the best possible start in life. </p>
-<p></p>
 <p>User Story: "As a user, I want to learn more about step-stools for kids so I can find a solution for my kids to be able to participate in the kitchen." </p>
 </body>
 </html>
