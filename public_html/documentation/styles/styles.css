@@ -1,8 +1,9 @@
 div {
-	align-content: start;
+	/*align-content: start;*/
 }
 
 img {
+	vertical-align: top;
 	display: inline-block;
 	padding: 2em;
 }
