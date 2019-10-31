@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="UTF-8"/>
+	<meta charset="utf-8"/>
 	<title>Custom by Kyla - Kyla's PWP: Milestone 2</title>
 	<link rel="stylesheet" href="./styles/styles.css"/>
 </head>
