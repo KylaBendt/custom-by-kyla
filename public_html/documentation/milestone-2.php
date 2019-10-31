@@ -15,7 +15,7 @@
 <h3>Safety section</h3>
 <p>Parents like to feel like their kids will be safe so this section will highlight safety features of the step stool to make parents feel at ease.  This will include a large title for the page, a bullet list of safety features and an image showcasing these. </p>
 <h3>Custom options</h3>
-<p>This section will focus on the customizable and hand-built nature of the product.  It will include title text, an image and a list of custom options.  It also have an order button (Call to action!).  In part, this is with the idea that the site could eventually be turned into a site where a user could actually make a purchase and I want the design to reflect that feel.</p>
+<p>This section will focus on the customizable and hand-built nature of the product.  It will include a title, an image and a list of custom options.  It also have an order button (Call to action!).  In part, this is with the idea that the site could eventually be turned into a site where a user could actually make a purchase and I want the design to reflect that feel.</p>
 <h3>The construction process/ About the company (me)</h3>
 <p>This section will include an image carousel or gallery the user can go through to see images of the construction process or conveying the small-business aspect of the company.  It may also include some short text about the process and/or company.</p>
 <h3>Contact/Order Form</h3>
