@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="UTF-8">
+	<meta charset="UTF-8"/>
 	<title>Custom by Kyla - Kyla's PWP: Milestone 2</title>
-	<link rel="stylesheet" href="./styles/styles.css">
+	<link rel="stylesheet" href="./styles/styles.css"/>
 </head>
 <body>
 <h1>Custom by Kyla - Kyla's PWP: Milestone 2</h1>
@@ -25,9 +25,9 @@
 	<p>Each section is intended to be slightly shorter than the screen height so a small bit of the next section is visible encouraging users to scroll to see what is there.</p>
 	<p>Sections of the site are separated by thin grey lines- this is for clarity on the wireframes only and will not be included on the final site. </p>
 <div>
-	<img src="./images/kyla-mobile.png" alt="Wireframe for mobile">
+	<img src="./images/kyla-mobile.png" alt="Wireframe for mobile"/>
 
-	<img src="./images/kyla-web.png" alt="Wireframe for web">
+	<img src="./images/kyla-web.png" alt="Wireframe for web"/>
 </div>
 </body>
 </html>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="UTF-8">
+	<meta charset="UTF-8"/>
 	<title>Custom by Kyla - Kyla's PWP: Milestone 1</title>
 </head>
 <body>
@@ -14,7 +14,7 @@
 <h3>Goal</h3>
 <p>The goal is to provide product details, specs, pictures and compelling images and copy to make people buy customized, handmade, folding step-stool/tables for young children.</p>
 <h2>Persona</h2>
-<img src="./images/persona-picture.jpg" alt="Mom with baby and toddler" style="width: 400px">
+<img src="./images/persona-picture.jpg" alt="Mom with baby and toddler" style="width: 400px"/>
 <p>Name: Sabina Morgan </p>
 <p>Age: 35</p>
 <p>Relationship status: Married to Aaron for 7 years.</p>
