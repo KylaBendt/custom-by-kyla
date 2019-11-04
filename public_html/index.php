@@ -23,5 +23,12 @@
 			  crossorigin="anonymous"></script>
 	<title>Custom by Kyla</title>
 </head>
+<section>
+	<div class="container-fluid">
+		<div>
+			<img src="..https://www.livehoppy.com/wp-content/uploads/2019/04/kids-bunny-stool-1.jpg?w=1024" class="img-fluid" alt="Header image">
+		</div>
+	</div>
+</section>
 
 </html>
