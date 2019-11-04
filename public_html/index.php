@@ -5,13 +5,13 @@
 	<meta charset="utf-8"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
 
-	<!--	My CSS-->
-	<link rel="stylesheet" href="./styles/styles.css">
+
 
 	<!--Bootstrap CSS-->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
 			integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-
+	<!--	My CSS-->
+	<link rel="stylesheet" href="./styles/styles.css">
 	<!--jQuery first, then Popper.js, then Bootsrap-->
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"
 			  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
@@ -23,12 +23,12 @@
 			  crossorigin="anonymous"></script>
 	<title>Custom by Kyla</title>
 </head>
+<body>
 <section>
-	<div class="container-fluid">
-		<div>
-			<img src="..https://www.livehoppy.com/wp-content/uploads/2019/04/kids-bunny-stool-1.jpg?w=1024" class="img-fluid" alt="Header image">
-		</div>
-	</div>
-</section>
+	<div class="top-image">
 
+	</div>
+	<div><p>some text</p></div>
+</section>
+</body>
 </html>
