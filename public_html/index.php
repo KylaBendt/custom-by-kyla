@@ -24,11 +24,14 @@
 	<title>Custom by Kyla</title>
 </head>
 <body>
+<!--Opening Section-->
 <section>
-	<div class="top-image">
-
+	<div class="container-fluid top-image">
+		<div class="p-5 section-90">
+			<div><h2 class="text-light">Made for toddlers.</h2></div>
+			<div><h2 class="text-light">Designed by a mom.</h2></div>
+		</div>
 	</div>
-	<div><p>some text</p></div>
 </section>
 </body>
 </html>
