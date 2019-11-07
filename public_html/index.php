@@ -34,14 +34,34 @@
 	</div>
 </section>
 
+<!--Second section-->
 <section>
 	<div class="container-fluid bg-dark">
 		<div class="section-height">
 			<h2>Involve your child!</h2>
 		</div>
 	</div>
-
 </section>
+
+<!--Third Second section-->
+<section>
+	<div class="container-fluid ">
+		<div class="section-height">
+			<h2>Involve your child!</h2>
+		</div>
+	</div>
+</section>
+
+<!--Footer-->
+<section>
+	<div class="container-fluid">
+		<div class="bg-dark text-light">
+			<p class="text-center">By Kyla Bendt</p>
+		</div>
+	</div>
+</section>
+
+
 
 
 </body>
