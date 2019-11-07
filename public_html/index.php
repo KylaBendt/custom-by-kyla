@@ -21,6 +21,9 @@
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
 			  integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
 			  crossorigin="anonymous"></script>
+
+<!--	Google Fonts-->
+	<link href="https://fonts.googleapis.com/css?family=Liu+Jian+Mao+Cao&display=swap" rel="stylesheet">
 	<title>Custom by Kyla</title>
 </head>
 <body>
@@ -30,14 +33,15 @@
 		<div class="p-5 section-height">
 			<div><h1 class="text-light">Made for toddlers.</h1></div>
 			<div><h2 class="text-light">Designed by a mom.</h2></div>
+			<div><h2 class="cursive-font text-light">Custom by Kyla</h2></div>
 		</div>
 	</div>
 </section>
 
 <!--Second section-->
 <section>
-	<div class="container-fluid bg-dark">
-		<div class="section-height">
+	<div class="container-fluid">
+		<div class="section-height bg-dark">
 			<h2>Involve your child!</h2>
 		</div>
 	</div>
@@ -60,9 +64,5 @@
 		</div>
 	</div>
 </section>
-
-
-
-
 </body>
 </html>
