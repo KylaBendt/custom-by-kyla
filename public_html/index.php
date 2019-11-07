@@ -27,11 +27,22 @@
 <!--Opening Section-->
 <section>
 	<div class="container-fluid top-image">
-		<div class="p-5 section-90">
-			<div><h2 class="text-light">Made for toddlers.</h2></div>
+		<div class="p-5 section-height">
+			<div><h1 class="text-light">Made for toddlers.</h1></div>
 			<div><h2 class="text-light">Designed by a mom.</h2></div>
 		</div>
 	</div>
 </section>
+
+<section>
+	<div class="container-fluid bg-dark">
+		<div class="section-height">
+			<h2>Involve your child!</h2>
+		</div>
+	</div>
+
+</section>
+
+
 </body>
 </html>
