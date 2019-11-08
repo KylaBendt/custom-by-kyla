@@ -109,10 +109,15 @@
 <!--Email Form-->
 <section class="email-form m-5">
 	<div class="container bg-light">
+		<h2 class="text-center">Contact us for more info</h2>
 		<form>
 			<div class="form-group">
 				<label for="emailInput">Email address</label>
 				<input type="email" class="form-control" id="emailInput" placeholder="name@example.com">
+			</div>
+			<div class="form-group">
+				<label for="messageInput">Messagge</label>
+				<textarea class="form-control" id="messageInput" rows="4" placeholder="Ask a question or request quote"></textarea>
 			</div>
 		</form>
 
