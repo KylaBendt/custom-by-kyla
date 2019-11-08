@@ -30,10 +30,12 @@
 <!--Opening (Title) Section-->
 <section>
 	<div class="container-fluid top-image">
-		<div class="p-5 section-height">
-			<div><h1 class="text-light">Made for toddlers.</h1></div>
+		<div class="p-2 section-height d-flex align-items-start flex-column">
+			<div><h2 class="text-light">Made for toddlers.</h2></div>
 			<div><h2 class="text-light">Designed by a mom.</h2></div>
-			<div><h2 class="cursive-font text-light">Custom by Kyla</h2></div>
+			<div class="mt-auto ml-auto">
+				<h1 class="cursive-font text-light">Custom by Kyla</h1>
+			</div>
 		</div>
 	</div>
 </section>
