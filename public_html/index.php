@@ -50,22 +50,24 @@
 <section>
 	<div class="container-fluid">
 		<div class="section-height bg-dark">
-			<h2>Involve your child!</h2>
+			<div>
+				<h2 class="text-light second-font">Involve your child!</h2>
+			</div>
 		</div>
 	</div>
 </section>
 
 <!--Third section-->
-<section>
+<section id="carousel-images">
 	<div class="container">
 		<div class="">
 			<h2>Involve your child!</h2>
 			<div class="bd-example">
-				<div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
+				<div id="carouselCaptions" class="carousel slide" data-ride="carousel">
 					<ol class="carousel-indicators">
-						<li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
-						<li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
-						<li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+						<li data-target="#carouselCaptions" data-slide-to="0" class="active"></li>
+						<li data-target="#carouselCaptions" data-slide-to="1"></li>
+						<li data-target="#carouselCaptions" data-slide-to="2"></li>
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
@@ -91,11 +93,11 @@
 							</div>
 						</div>
 					</div>
-					<a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
+					<a class="carousel-control-prev" href="#carouselCaptions" role="button" data-slide="prev">
 						<span class="carousel-control-prev-icon" aria-hidden="true"></span>
 						<span class="sr-only">Previous</span>
 					</a>
-					<a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
+					<a class="carousel-control-next" href="#carouselCaptions" role="button" data-slide="next">
 						<span class="carousel-control-next-icon" aria-hidden="true"></span>
 						<span class="sr-only">Next</span>
 					</a>
@@ -103,6 +105,20 @@
 			</div>
 		</div>
 	</div>
+</section>
+<!--Email Form-->
+<section class="email-form m-5">
+	<div class="container bg-light">
+		<form>
+			<div class="form-group">
+				<label for="emailInput">Email address</label>
+				<input type="email" class="form-control" id="emailInput" placeholder="name@example.com">
+			</div>
+		</form>
+
+
+	</div>
+
 </section>
 
 <!--Footer-->
