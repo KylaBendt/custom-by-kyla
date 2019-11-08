@@ -24,6 +24,7 @@
 
 <!--	Google Fonts-->
 	<link href="https://fonts.googleapis.com/css?family=Liu+Jian+Mao+Cao&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Hind&display=swap" rel="stylesheet">
 	<title>Custom by Kyla</title>
 </head>
 <body>
@@ -32,13 +33,13 @@
 	<div class="container-fluid top-image">
 		<div class="p-2 section-height d-flex align-items-start flex-column">
 			<div class="mt-auto ml-auto order-3">
-				<h1 class="cursive-font text-light">Custom by Kyla</h1>
+				<h1 class="cursive-font text-light h3">Custom by Kyla</h1>
 			</div>
 			<div class="order-1">
-				<h2 class="text-light">Made for toddlers.</h2>
+				<p class="second-font h2 text-light">Made for toddlers.</p>
 			</div>
-			<div class="order-2">
-				<h2 class="text-light">Designed by a mom.</h2>
+			<div class="order-2 mx-auto">
+				<p class="second-font h1 text-light text-center">Designed by a mom.</p>
 			</div>
 
 		</div>
@@ -56,7 +57,7 @@
 
 <!--Third section-->
 <section>
-	<div class="container-fluid ">
+	<div class="container">
 		<div class="">
 			<h2>Involve your child!</h2>
 			<div class="bd-example">
