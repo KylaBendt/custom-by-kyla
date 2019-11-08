@@ -61,7 +61,7 @@
 <section id="carousel-images">
 	<div class="container">
 		<div class="">
-			<h2>Involve your child!</h2>
+			<h2 class="text-center">Amazing and cool!</h2>
 			<div class="bd-example">
 				<div id="carouselCaptions" class="carousel slide" data-ride="carousel">
 					<ol class="carousel-indicators">
@@ -108,15 +108,15 @@
 </section>
 <!--Email Form-->
 <section class="email-form m-5">
-	<div class="container bg-light">
+	<div class="container bg-light p-3 border">
 		<h2 class="text-center">Contact us for more info</h2>
 		<form>
-			<div class="form-group">
+			<div class="form-group px-3">
 				<label for="emailInput">Email address</label>
 				<input type="email" class="form-control" id="emailInput" placeholder="name@example.com">
 			</div>
-			<div class="form-group">
-				<label for="messageInput">Messagge</label>
+			<div class="form-group px-3">
+				<label for="messageInput">Message</label>
 				<textarea class="form-control" id="messageInput" rows="4" placeholder="Ask a question or request quote"></textarea>
 			</div>
 		</form>
