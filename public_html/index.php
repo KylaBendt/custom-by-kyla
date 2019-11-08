@@ -31,11 +31,16 @@
 <section>
 	<div class="container-fluid top-image">
 		<div class="p-2 section-height d-flex align-items-start flex-column">
-			<div><h2 class="text-light">Made for toddlers.</h2></div>
-			<div><h2 class="text-light">Designed by a mom.</h2></div>
-			<div class="mt-auto ml-auto">
+			<div class="mt-auto ml-auto order-3">
 				<h1 class="cursive-font text-light">Custom by Kyla</h1>
 			</div>
+			<div class="order-1">
+				<h2 class="text-light">Made for toddlers.</h2>
+			</div>
+			<div class="order-2">
+				<h2 class="text-light">Designed by a mom.</h2>
+			</div>
+
 		</div>
 	</div>
 </section>
