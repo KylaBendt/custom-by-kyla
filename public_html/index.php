@@ -50,17 +50,18 @@
 
 <!--Second section-->
 <section>
-	<div class="">
-		<div class="bg-light">
-			<div>
-				<h2 class="text-center text-dark second-font">Our Story</h2>
-			</div>
-			<div class="container-fluid">
-				<div class="col-sm-3">
-					<img class="about-picture" src="https://www.livehoppy.com/wp-content/uploads/2018/05/baby-b-and-the-recycle-bin.jpg" alt="">
+	<div class="bg-light">
+		<div class="p-3">
+			<h2 class="text-center text-dark second-font">Our Story</h2>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-4">
+					<img class="img-fluid"
+						  src="https://www.livehoppy.com/wp-content/uploads/2018/05/baby-b-and-the-recycle-bin.jpg" alt="">
 				</div>
-				<div class="col-sm-9">
-					<p>I'm a first-time mom and I don't know a lot of other people with young kids. A lot of bing a mom is
+				<div class="col-md-8">
+					<p>I'm a first-time mom and I don't know a lot of other people with young kids. A lot of being a mom is
 						just making stuff up as I go along and figuring out how to handle one challenge after another.</p>
 					<p>When my son was a little over a year, one of my big challenges was trying to get anything done in the
 						kitchen. He would toddle around by my legs trying to get my attention. </p>
