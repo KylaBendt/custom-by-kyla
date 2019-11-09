@@ -108,7 +108,7 @@
 <section id="carousel-images">
 	<div class="container">
 		<div class="">
-			<h2 class="text-center">Amazing and cool!</h2>
+			<h2 class="text-center">Behind the scenes!</h2>
 			<div class="bd-example">
 				<div id="carouselCaptions" class="carousel slide" data-ride="carousel">
 					<ol class="carousel-indicators">
