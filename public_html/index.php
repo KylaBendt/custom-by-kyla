@@ -41,6 +41,8 @@
 			<div class="order-2 mx-auto">
 				<p class="second-font h1 text-light text-center">Designed by a mom.</p>
 			</div>
+<!--			TODO Add a button for learn more. -->
+<!--			TODO make this so that it switches to the table picture too-->
 
 		</div>
 	</div>
@@ -48,10 +50,29 @@
 
 <!--Second section-->
 <section>
-	<div class="container-fluid">
-		<div class="section-height bg-dark">
+	<div class="">
+		<div class="bg-light">
 			<div>
-				<h2 class="text-light second-font">Involve your child!</h2>
+				<h2 class="text-center text-dark second-font">Our Story</h2>
+			</div>
+			<div class="container-fluid">
+				<div class="col-sm-3">
+					<img class="about-picture" src="https://www.livehoppy.com/wp-content/uploads/2018/05/baby-b-and-the-recycle-bin.jpg" alt="">
+				</div>
+				<div class="col-sm-9">
+					<p>I'm a first-time mom and I don't know a lot of other people with young kids. A lot of bing a mom is
+						just making stuff up as I go along and figuring out how to handle one challenge after another.</p>
+					<p>When my son was a little over a year, one of my big challenges was trying to get anything done in the
+						kitchen. He would toddle around by my legs trying to get my attention. </p>
+					<p>He'd be happy if I picked him up so he could see, but there were some things I just didn't feel
+						comfortable doing while holding him. </p>
+					<p>I decided he needed to be on my level, but I also wanted him to be safe. He was still perfecting
+						balancing and walking and I didn't want him to stand on a chair he could fall off of. </p>
+					<p>I had also just started a membership at Quelab, a makerspace in Albuquerque. So I decided to make
+						something to solve my problem. </p>
+					<p>One thing about being a parent is that we all share some common problems and I wanted to share the
+						solution I had with other parents. God knows I need them to share their solutions with me!</p>
+				</div>
 			</div>
 		</div>
 	</div>
