@@ -12,6 +12,10 @@
 	background-size: cover;
 }
 
+.full-section-height {
+	height: 100vh;
+}
+
 .section-height {
 	height: 90vh;
 }
