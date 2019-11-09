@@ -48,7 +48,33 @@
 	</div>
 </section>
 
-<!--Second section-->
+
+<!-- Built with safety in mind section-->
+<section>
+	<div class="bg-light">
+		<div class="p-3">
+			<h2 class="text-center text-dark second-font">Built with safety in mind</h2>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6">
+					<div class="card" style="width: 18rem;">
+						<div class="card-body">
+							<h5 class="card-title">Detachable Safety Bar</h5>
+							<p class="card-text">The stool includes a detachable safety bar to keep your little one from
+								falling
+								off. </p>
+							<p>It's designed to be easy for them to climb under to get on the stool. </p>
+							<p>You can screw it on for extra safety or hide it away under the seat if you don't need it.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<!-- About us section-->
 <section>
 	<div class="bg-light">
 		<div class="p-3">
@@ -61,8 +87,6 @@
 						  src="https://www.livehoppy.com/wp-content/uploads/2018/05/baby-b-and-the-recycle-bin.jpg" alt="">
 				</div>
 				<div class="col-md-8">
-					<p>I'm a first-time mom and I don't know a lot of other people with young kids. A lot of being a mom is
-						just making stuff up as I go along and figuring out how to handle one challenge after another.</p>
 					<p>When my son was a little over a year, one of my big challenges was trying to get anything done in the
 						kitchen. He would toddle around by my legs trying to get my attention. </p>
 					<p>He'd be happy if I picked him up so he could see, but there were some things I just didn't feel
@@ -78,6 +102,7 @@
 		</div>
 	</div>
 </section>
+
 
 <!--Third section-->
 <section id="carousel-images">
@@ -128,6 +153,8 @@
 		</div>
 	</div>
 </section>
+
+
 <!--Email Form-->
 <section class="email-form m-5">
 	<div class="container bg-light p-3 border">
@@ -147,6 +174,7 @@
 	</div>
 
 </section>
+
 
 <!--Footer-->
 <section>
