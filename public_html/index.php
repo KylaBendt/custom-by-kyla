@@ -57,6 +57,7 @@
 			<div class="row">
 				<div class="col-md-6">
 					<div class="card" style="width: 18rem;">
+						<img src="./images/support-bar.jpg" class="card-img-top" alt="...">
 						<div class="card-body">
 							<h5 class="card-title">Detachable Safety Bar</h5>
 							<p class="card-text">The stool includes a detachable safety bar to keep your little one from
@@ -117,24 +118,24 @@
 					<div class="carousel-inner">
 						<div class="carousel-item active">
 
-							<img src="https://www.livehoppy.com/wp-content/uploads/2019/04/kids-bunny-table.jpg" class="d-block w-100" alt="...">
+							<img src="./images/quelab.jpg" class="d-block w-100" alt="...">
 							<div class="carousel-caption d-none d-md-block">
-								<h5>Converts into a table!</h5>
-								<p>This two-in-one stool saves space and converts into a child-sized table.</p>
+								<h5>Quelab</h5>
+								<p>I take advantage of the local makerspace for some of the work.</p>
 							</div>
 						</div>
 						<div class="carousel-item">
-							<img src="https://www.livehoppy.com/wp-content/uploads/2019/04/B-on-stool.jpg" class="d-block w-100" alt="...">
+							<img src="./images/shop.jpg" class="d-block w-100" alt="...">
 							<div class="carousel-caption d-none d-md-block">
-								<h5>The kitchen helper</h5>
-								<p>Your child will love to be able to see what is going on.</p>
+								<h5>Crafted with care</h5>
+								<p>I love the feeling of making something that I can really feel proud of.</p>
 							</div>
 						</div>
 						<div class="carousel-item">
-							<img src="https://www.livehoppy.com/wp-content/uploads/2019/04/kids-bunny-stool-2.jpg" class="d-block w-100" alt="...">
+							<img src="./images/bunny-cutout.jpg" class="d-block w-100" alt="...">
 							<div class="carousel-caption d-none d-md-block">
-								<h5>Custom made</h5>
-								<p>Made by a mom.</p>
+								<h5>Love the bunnies!</h5>
+								<p>But you can customize it and pick your own design for the cutouts.</p>
 							</div>
 						</div>
 					</div>
