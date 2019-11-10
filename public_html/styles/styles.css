@@ -1,7 +1,25 @@
 
+.full-section-height {
+	height: 100vh;
+}
+
+.section-height {
+	height: 90vh;
+}
+
+/*Fonts*/
+.cursive-font {
+	font-family: 'Liu Jian Mao Cao', cursive;
+}
+
+.second-font {
+	font-family: 'Hind', sans-serif;
+}
+
+
 .top-image {
 	/* animation to change the bg image */
-	animation: imageAnimation 10s linear infinite 0s;
+	animation: imageAnimation 8s linear infinite 0s;
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -26,21 +44,4 @@
 	}
 }
 
-
-.full-section-height {
-	height: 100vh;
-}
-
-.section-height {
-	height: 90vh;
-}
-
-/*Fonts*/
-.cursive-font {
-	font-family: 'Liu Jian Mao Cao', cursive;
-}
-
-.second-font {
-	font-family: 'Hind', sans-serif;
-}
 

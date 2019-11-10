@@ -42,8 +42,6 @@
 				<p class="second-font h1 text-light text-center">Designed by a mom.</p>
 			</div>
 <!--			TODO Add a button for learn more. -->
-<!--			TODO make this so that it switches to the table picture too-->
-
 		</div>
 	</div>
 </section>
