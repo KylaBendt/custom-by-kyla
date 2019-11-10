@@ -1,16 +1,15 @@
 
 .top-image {
 	/* The image used */
+	animation: imageAnimation 10s linear infinite 0s;
 	background-image: url("https://www.livehoppy.com/wp-content/uploads/2019/04/kids-bunny-stool-1.jpg");
-
-	/* Full height */
-
-
 	/* Center and scale the image nicely */
 	background-position: center;/**/
 	background-repeat: no-repeat;
 	background-size: cover;
 }
+
+
 
 .top-image-2 {
 	/* The image used */
