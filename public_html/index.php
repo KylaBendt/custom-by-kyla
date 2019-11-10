@@ -76,8 +76,8 @@
 <!-- About us section-->
 <section>
 	<div class="bg-light">
-		<div class="p-3">
-			<h2 class="text-center text-dark second-font">Our Story</h2>
+		<div class="py-3">
+			<h2 class="text-center text-dark second-font">My Story</h2>
 		</div>
 		<div class="container">
 			<div class="row">
@@ -106,8 +106,10 @@
 <!--Third section-->
 <section id="carousel-images">
 	<div class="container">
-		<div class="">
-			<h2 class="text-center">Behind the scenes!</h2>
+		<div>
+			<div class="py-3">
+				<h2 class="text-center">Behind the scenes!</h2>
+			</div>
 			<div class="bd-example">
 				<div id="carouselCaptions" class="carousel slide" data-ride="carousel">
 					<ol class="carousel-indicators">
@@ -117,11 +119,10 @@
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-
 							<img src="./images/quelab.jpg" class="d-block w-100" alt="...">
 							<div class="carousel-caption d-none d-md-block">
 								<h5>Quelab</h5>
-								<p>I take advantage of the local makerspace for some of the work.</p>
+								<p>This is the local makerspace.  It's amazing!</p>
 							</div>
 						</div>
 						<div class="carousel-item">
@@ -168,10 +169,7 @@
 				<textarea class="form-control" id="messageInput" rows="4" placeholder="Ask a question or request quote"></textarea>
 			</div>
 		</form>
-
-
 	</div>
-
 </section>
 
 
