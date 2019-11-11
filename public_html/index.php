@@ -142,11 +142,13 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-4">
-					<img class="img-fluid"
-						  src="https://www.livehoppy.com/wp-content/uploads/2018/05/baby-b-and-the-recycle-bin.jpg" alt="">
+					<div>
+						<img class="img-fluid rounded-circle"
+							  src="./images/kyla.jpg" alt="">
+					</div>
 				</div>
 				<div class="col-md-8">
-					<p>When my son was a little over a year, one of my big challenges was trying to get anything done in the
+					<p>When my son was a little over a year old, one of my big challenges was trying to get anything done in the
 						kitchen. He would toddle around by my legs trying to get my attention. </p>
 					<p>He'd be happy if I picked him up so he could see, but there were some things I just didn't feel
 						comfortable doing while holding him. </p>
