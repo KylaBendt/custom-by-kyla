@@ -55,6 +55,7 @@
 		</div>
 		<div class="container">
 			<div class="row">
+				<!--Card One-->
 				<div class="col-md-6">
 					<div class="card" style="width: 18rem;">
 						<img src="./images/support-bar.jpg" class="card-img-top" alt="...">
@@ -65,6 +66,36 @@
 								off. </p>
 							<p>It's designed to be easy for them to climb under to get on the stool. </p>
 							<p>You can screw it on for extra safety or hide it away under the seat if you don't need it.</p>
+						</div>
+					</div>
+				</div>
+				<!--Card Two-->
+				<div class="col-md-6">
+					<div class="card" style="width: 18rem;">
+						<img src="./images/toddler.jpg" class="card-img-top" alt="...">
+						<div class="card-body">
+							<h5 class="card-title">Toddler approved</h5>
+							<p class="card-text">Young kids love being able to climb up and see what is going on.  </p>
+						</div>
+					</div>
+				</div>
+				<!--Card Three-->
+				<div class="col-md-6">
+					<div class="card" style="width: 18rem;">
+						<img src="./images/felt-feet.jpg" class="card-img-top" alt="...">
+						<div class="card-body">
+							<h5 class="card-title">Felt feet</h5>
+							<p class="card-text">Felt feet protect your floor and make it easy for your little person to push the stool around to where they need to go. </p>
+						</div>
+					</div>
+				</div>
+				<!--Card Three-->
+				<div class="col-md-6">
+					<div class="card" style="width: 18rem;">
+						<img src="./images/plans.jpg" class="card-img-top" alt="...">
+						<div class="card-body">
+							<h5 class="card-title">Meticulously planned</h5>
+							<p class="card-text">These stools were carefully planned out with attention to every detail.  Then tested by a two-year old and reworked to be even better.</p>
 						</div>
 					</div>
 				</div>
