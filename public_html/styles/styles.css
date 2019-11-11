@@ -28,19 +28,19 @@
 /*Animation to change background of opening section*/
 @keyframes imageAnimation {
 	0% {
-		background-image: url("../images/stool-2.jpg");
+		background-image: url("../images/stool-2-sm.jpg");
 	}
 	40% {
-		background-image: url("../images/stool-2.jpg");
+		background-image: url("../images/stool-2-sm.jpg");
 	}
 	50% {
-		background-image: url("../images/table.jpg");
+		background-image: url("../images/table-sm.jpg");
 	}
 	90% {
-		background-image: url("../images/table.jpg");
+		background-image: url("../images/table-sm.jpg");
 	}
 	100% {
-		background-image: url("../images/stool-2.jpg");
+		background-image: url("../images/stool-2-sm.jpg");
 	}
 }
 
