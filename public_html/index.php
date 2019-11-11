@@ -6,7 +6,6 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
 
 
-
 	<!--Bootstrap CSS-->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
 			integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
@@ -22,7 +21,7 @@
 			  integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
 			  crossorigin="anonymous"></script>
 
-<!--	Google Fonts-->
+	<!--	Google Fonts-->
 	<link href="https://fonts.googleapis.com/css?family=Liu+Jian+Mao+Cao&display=swap" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Hind&display=swap" rel="stylesheet">
 	<title>Custom by Kyla</title>
@@ -32,7 +31,8 @@
 <section>
 	<div class="container-fluid top-image full-section-height">
 		<nav class="navbar navbar-expand-lg navbar-dark">
-			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+					  aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
 			</button>
 
@@ -53,7 +53,6 @@
 		</nav>
 
 
-
 		<div class="p-2 d-flex flex-column">
 			<div class="mt-auto ml-auto order-3">
 				<h1 class="cursive-font text-light h3">Custom by Kyla</h1>
@@ -64,7 +63,7 @@
 			<div class="order-2 mx-auto">
 				<p class="second-font h1 text-light text-center">Designed by a mom.</p>
 			</div>
-<!--			TODO Add a button for learn more. -->
+			<!--			TODO Add a button for learn more. -->
 		</div>
 	</div>
 </section>
@@ -78,49 +77,56 @@
 		</div>
 		<div class="container">
 			<div class="row">
-				<!--Card One-->
-				<div class="col-md-6">
-					<div class="card" style="width: 18rem;">
-						<img src="./images/support-bar.jpg" class="card-img-top" alt="...">
-						<div class="card-body">
-							<h5 class="card-title">Detachable Safety Bar</h5>
-							<p class="card-text">The stool includes a detachable safety bar to keep your little one from
-								falling
-								off. </p>
-							<p>It's designed to be easy for them to climb under to get on the stool. </p>
-							<p>You can screw it on for extra safety or hide it away under the seat if you don't need it.</p>
-						</div>
+				<div class="card-deck">
+					<!--Card-->
+						<div class="card mx-3 mb-4">
+							<img src="./images/support-bar.jpg" class="card-img-top" alt="...">
+							<div class="card-body">
+								<h5 class="card-title">Detachable Safety Bar</h5>
+								<p class="card-text">The stool includes a detachable safety bar to keep your little one from
+									falling
+									off. </p>
+								<p class="card-text">It's designed to be easy for them to climb under to get on the stool. </p>
+								<p class="card-text">You can screw it on for extra safety or hide it away under the seat if you
+									don't need it.</p>
+							</div>
 					</div>
+					<!--End Card-->
+					<!--Card-->
+						<div class="card mx-3 mb-4">
+							<img src="./images/plans.jpg" class="card-img-top" alt="...">
+							<div class="card-body">
+								<h5 class="card-title">Meticulously planned</h5>
+								<p class="card-text">Built with the motto "Form. Fit. Function." </p>
+								<p class="card-text">These stools were carefully planned out with attention to every detail.</p>
+								<p class="card-text">Then tested by a two-year old and reworked to be even better.</p>
+							</div>
+						</div>
+					<!--End Card-->
 				</div>
-				<!--Card Two-->
-				<div class="col-md-6">
-					<div class="card" style="width: 18rem;">
-						<img src="./images/toddler.jpg" class="card-img-top" alt="...">
-						<div class="card-body">
-							<h5 class="card-title">Toddler approved</h5>
-							<p class="card-text">Young kids love being able to climb up and see what is going on.  </p>
+			</div>
+			<div class="row">
+				<div class="card-deck">
+					<!--Card -->
+						<div class="card mx-3 mb-4">
+							<img src="./images/toddler.jpg" class="card-img-top" alt="...">
+							<div class="card-body">
+								<h5 class="card-title">Toddler approved</h5>
+								<p class="card-text">Young kids love being able to climb up and see what is going on. </p>
+								<p class="card-text">Plus they learn more when they are able to be actively involved.</p>
+							</div>
 						</div>
-					</div>
-				</div>
-				<!--Card Three-->
-				<div class="col-md-6">
-					<div class="card" style="width: 18rem;">
-						<img src="./images/felt-feet.jpg" class="card-img-top" alt="...">
-						<div class="card-body">
-							<h5 class="card-title">Felt feet</h5>
-							<p class="card-text">Felt feet protect your floor and make it easy for your little person to push the stool around to where they need to go. </p>
+					<!--End Card-->
+					<!--Card -->
+						<div class="card mx-4 mb-4">
+							<img src="./images/felt-feet.jpg" class="card-img-top" alt="...">
+							<div class="card-body">
+								<h5 class="card-title">Felt feet</h5>
+								<p class="card-text">Felt feet protect your floor and make it easy for your little person to
+									push the stool around to where they need to go. </p>
+							</div>
 						</div>
-					</div>
-				</div>
-				<!--Card Three-->
-				<div class="col-md-6">
-					<div class="card" style="width: 18rem;">
-						<img src="./images/plans.jpg" class="card-img-top" alt="...">
-						<div class="card-body">
-							<h5 class="card-title">Meticulously planned</h5>
-							<p class="card-text">These stools were carefully planned out with attention to every detail.  Then tested by a two-year old and reworked to be even better.</p>
-						</div>
-					</div>
+					<!--End Card-->
 				</div>
 			</div>
 		</div>
@@ -158,7 +164,7 @@
 
 
 <!--Third section-->
-<section id="carousel-images">
+<section id="behindTheScenes">
 	<div class="container">
 		<div>
 			<div class="py-3">
@@ -176,7 +182,7 @@
 							<img src="./images/quelab.jpg" class="d-block w-100" alt="...">
 							<div class="carousel-caption d-none d-md-block">
 								<h5>Quelab</h5>
-								<p>This is the local makerspace.  It's amazing!</p>
+								<p>This is the local makerspace. It's amazing!</p>
 							</div>
 						</div>
 						<div class="carousel-item">
@@ -220,7 +226,8 @@
 			</div>
 			<div class="form-group px-3">
 				<label for="messageInput">Message</label>
-				<textarea class="form-control" id="messageInput" rows="4" placeholder="Ask a question or request quote"></textarea>
+				<textarea class="form-control" id="messageInput" rows="4"
+							 placeholder="Ask a question or request quote"></textarea>
 			</div>
 		</form>
 	</div>
