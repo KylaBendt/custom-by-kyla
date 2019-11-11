@@ -28,6 +28,11 @@
 </head>
 <body>
 <!--Opening (Title) Section-->
+
+<!--TODO: Make it clear what product is early on-->
+<!--TODO: Change contact form to request a quote-->
+<!--TODO: Make opening text easier to read-->
+<!--TODO: Add CTAs-->
 <section>
 	<div class="container-fluid top-image full-section-height">
 		<nav class="navbar navbar-expand-lg navbar-dark">
