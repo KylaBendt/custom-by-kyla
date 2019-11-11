@@ -30,8 +30,31 @@
 <body>
 <!--Opening (Title) Section-->
 <section>
-	<div class="container-fluid top-image">
-		<div class="p-2 full-section-height d-flex flex-column">
+	<div class="container-fluid top-image full-section-height">
+		<nav class="navbar navbar-expand-lg navbar-dark">
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+
+			<div class="collapse navbar-collapse" id="navbarSupportedContent">
+				<ul class="navbar-nav mr-auto">
+					<li class="nav-item active">
+						<a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#safety">Safety</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#about">The Story</a>
+					</li>
+				</ul>
+
+			</div>
+		</nav>
+
+
+
+		<div class="p-2 d-flex flex-column">
 			<div class="mt-auto ml-auto order-3">
 				<h1 class="cursive-font text-light h3">Custom by Kyla</h1>
 			</div>
@@ -48,7 +71,7 @@
 
 
 <!-- Built with safety in mind section-->
-<section>
+<section id="safety">
 	<div class="bg-light">
 		<div class="p-3">
 			<h2 class="text-center text-dark second-font">Built with safety in mind</h2>
@@ -105,7 +128,7 @@
 </section>
 
 <!-- About us section-->
-<section>
+<section id="about">
 	<div class="bg-light">
 		<div class="py-3">
 			<h2 class="text-center text-dark second-font">My Story</h2>
