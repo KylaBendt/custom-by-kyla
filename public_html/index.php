@@ -222,14 +222,23 @@
 </section>
 
 
-<!--Email Form-->
+<!--Quote Form-->
 <section class="email-form m-5">
 	<div class="container bg-light p-3 border">
-		<h2 class="text-center">Contact us for more info</h2>
+		<h2 class="text-center">Request a quote</h2>
 		<form>
 			<div class="form-group px-3">
 				<label for="emailInput">Email address</label>
 				<input type="email" class="form-control" id="emailInput" placeholder="name@example.com">
+			</div>
+			<div class="form-group px-3">
+				<label for="cutout-select">Select your cutout shape</label>
+				<select id="cutout-select" class="custom-select">
+					<option selected value="bunny">Bunny</option>
+					<option value="train">Train</option>
+					<option value="dinosaur">Dinosaur</option>
+					<option value="custom">Custom (Specify below)</option>
+				</select>
 			</div>
 			<div class="form-group px-3">
 				<label for="messageInput">Message</label>
