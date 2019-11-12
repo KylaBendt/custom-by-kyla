@@ -21,6 +21,17 @@
 			  integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
 			  crossorigin="anonymous"></script>
 
+	<!-- jQuery Form, Additional Methods, Validate -->
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/4.2.2/jquery.form.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/additional-methods.min.js"></script>
+
+	<!-- Your JavaScript Form Validator -->
+	<script src="js/form-validate.js"></script>
+
+	<!-- Google reCAPTCHA -->
+	<script src='https://www.google.com/recaptcha/api.js'></script>
+
 	<!--	Google Fonts-->
 	<link href="https://fonts.googleapis.com/css?family=Liu+Jian+Mao+Cao&display=swap" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Hind&display=swap" rel="stylesheet">
@@ -226,7 +237,7 @@
 <section class="email-form m-5">
 	<div class="container bg-light p-3 border">
 		<h2 class="text-center">Request a quote</h2>
-		<form>
+		<form id="quote-form" action="php" method="post">
 			<div class="form-group px-3">
 				<label for="emailInput">Email address</label>
 				<input type="email" class="form-control" id="emailInput" placeholder="name@example.com">
@@ -252,10 +263,21 @@
 				<textarea class="form-control" id="messageInput" rows="4"
 							 placeholder="Specify the color scheme you'd like and any other customizations you want."></textarea>
 			</div>
+
+			<!-- reCAPTCHA -->
+			<div class="g-recaptcha px-3 pb-3" data-sitekey="6LeoKsIUAAAAAGagfIOzZ1G_yOgLSO8ZGeVb9AG7"></div>
+			<!--Submit Button-->
 			<div class="form-group px-3">
 			<input type="submit" value="Get quote!">
 			</div>
 		</form>
+
+
+		<div class="row">
+			<div class="col-xs-12">
+				<div class="p-3" id="output-area"></div>
+			</div>
+		</div>
 	</div>
 </section>
 
