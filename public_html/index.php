@@ -26,7 +26,7 @@
 	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"></script>
 	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/additional-methods.min.js"></script>
 
-	<!-- Your JavaScript Form Validator -->
+	<!-- JavaScript Form Validator -->
 	<script src="js/form-validate.js"></script>
 
 	<!-- Google reCAPTCHA -->
@@ -237,14 +237,18 @@
 <section class="email-form m-5">
 	<div class="container bg-light p-3 border">
 		<h2 class="text-center">Request a quote</h2>
-		<form id="quote-form" action="php" method="post">
+		<form id="quote-form" name="quote-form" action="../php/" method="post">
 			<div class="form-group px-3">
-				<label for="emailInput">Email address</label>
-				<input type="email" class="form-control" id="emailInput" placeholder="name@example.com">
+				<label for="name">Name</label>
+				<input type="text" class="form-control" id="name" name="name" placeholder="name">
 			</div>
 			<div class="form-group px-3">
-				<label for="cutout-select">Select your cutout shape</label>
-				<select id="cutout-select" class="custom-select">
+				<label for="email">Email address</label>
+				<input type="email" class="form-control" id="email" name="email" placeholder="name@example.com">
+			</div>
+			<div class="form-group px-3">
+				<label for="cutout">Select your cutout shape</label>
+				<select id="cutout" name="cutout" class="custom-select">
 					<option selected value="bunny">Bunny</option>
 					<option value="train">Train</option>
 					<option value="dinosaur">Dinosaur</option>
@@ -252,32 +256,34 @@
 				</select>
 			</div>
 			<div class="form-group px-3">
-				<label for="style-select">Select style</label>
-				<select id="style-select" class="custom-select">
+				<label for="style">Select style</label>
+				<select id="style" name="style" class="custom-select">
 					<option selected value="combo">2-in-1 step-stool and table</option>
 					<option value="train">Step-stool only</option>
 				</select>
 			</div>
 			<div class="form-group px-3">
-				<label for="messageInput">Message</label>
-				<textarea class="form-control" id="messageInput" rows="4"
+				<label for="message">Message</label>
+				<textarea class="form-control" id="message" name="message" rows="4"
 							 placeholder="Specify the color scheme you'd like and any other customizations you want."></textarea>
 			</div>
-
 			<!-- reCAPTCHA -->
-			<div class="g-recaptcha px-3 pb-3" data-sitekey="6LeoKsIUAAAAAGagfIOzZ1G_yOgLSO8ZGeVb9AG7"></div>
+			<div class=" px-3 pb-3">
+			<div class="g-recaptcha" data-sitekey="6LeoKsIUAAAAAGagfIOzZ1G_yOgLSO8ZGeVb9AG7"></div>
+			</div>
 			<!--Submit Button-->
 			<div class="form-group px-3">
 			<input type="submit" value="Get quote!">
 			</div>
+			<div class="row">
+				<div class="col-xs-12">
+					<div class="p-3" id="output-area"></div>
+				</div>
+			</div>
 		</form>
 
 
-		<div class="row">
-			<div class="col-xs-12">
-				<div class="p-3" id="output-area"></div>
-			</div>
-		</div>
+
 	</div>
 </section>
 
