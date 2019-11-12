@@ -241,9 +241,19 @@
 				</select>
 			</div>
 			<div class="form-group px-3">
+				<label for="style-select">Select style</label>
+				<select id="style-select" class="custom-select">
+					<option selected value="combo">2-in-1 step-stool and table</option>
+					<option value="train">Step-stool only</option>
+				</select>
+			</div>
+			<div class="form-group px-3">
 				<label for="messageInput">Message</label>
 				<textarea class="form-control" id="messageInput" rows="4"
-							 placeholder="Ask a question or request quote"></textarea>
+							 placeholder="Specify the color scheme you'd like and any other customizations you want."></textarea>
+			</div>
+			<div class="form-group px-3">
+			<input type="submit" value="Get quote!">
 			</div>
 		</form>
 	</div>
