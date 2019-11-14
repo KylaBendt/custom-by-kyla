@@ -234,6 +234,7 @@
 
 
 <!--Quote Form-->
+<!---->
 <section class="email-form m-5">
 	<div class="container bg-light p-3 border">
 		<h2 class="text-center">Request a quote</h2>
@@ -259,7 +260,7 @@
 				<label for="style">Select style</label>
 				<select id="style" name="style" class="custom-select">
 					<option selected value="combo">2-in-1 step-stool and table</option>
-					<option value="train">Step-stool only</option>
+					<option value="stoolOnly">Step-stool only</option>
 				</select>
 			</div>
 			<div class="form-group px-3">
@@ -281,9 +282,6 @@
 				</div>
 			</div>
 		</form>
-
-
-
 	</div>
 </section>
 

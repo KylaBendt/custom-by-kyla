@@ -17,7 +17,6 @@ require_once("mail-config.php");
 use Mailgun\Mailgun;
 use ReCaptcha\ReCaptcha;
 
-echo(var_dump($_POST, INPUT_POST));
 
 
 // verify user's reCAPTCHA input
@@ -38,13 +37,16 @@ try {
 
 	$name = filter_input(INPUT_POST, "name", FILTER_SANITIZE_STRING, FILTER_FLAG_NO_ENCODE_QUOTES);
 	$email = filter_input(INPUT_POST, "email", FILTER_SANITIZE_EMAIL);
-	$subject = filter_input(INPUT_POST, "subject", FILTER_SANITIZE_STRING, FILTER_FLAG_NO_ENCODE_QUOTES);
+	//commenting out subject because it's not a field a user can fill out.
+//	$subject = filter_input(INPUT_POST, "subject", FILTER_SANITIZE_STRING, FILTER_FLAG_NO_ENCODE_QUOTES);
 	$message = filter_input(INPUT_POST, "message", FILTER_SANITIZE_STRING, FILTER_FLAG_NO_ENCODE_QUOTES);
 	$style = filter_input(INPUT_POST, "style", FILTER_SANITIZE_STRING, FILTER_FLAG_NO_ENCODE_QUOTES);
 	$cutout = filter_input(INPUT_POST, "cutout", FILTER_SANITIZE_STRING, FILTER_FLAG_NO_ENCODE_QUOTES);
-	echo(var_dump($name, $email));
 
 
+//set subject and message
+	$message = ("Style: ".$style.".  Cutout: ".$cutout.".  Message: ".$message);
+	$subject = "Quote requested for Custom By Kyla";
 
 
 
