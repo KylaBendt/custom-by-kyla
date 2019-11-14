@@ -22,9 +22,12 @@
 			  crossorigin="anonymous"></script>
 
 	<!-- jQuery Form, Additional Methods, Validate -->
-	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/4.2.2/jquery.form.min.js"></script>
-	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"></script>
-	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/additional-methods.min.js"></script>
+	<script type="text/javascript"
+			  src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/4.2.2/jquery.form.min.js"></script>
+	<script type="text/javascript"
+			  src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"></script>
+	<script type="text/javascript"
+			  src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/additional-methods.min.js"></script>
 
 	<!-- JavaScript Form Validator -->
 	<script src="js/form-validate.js"></script>
@@ -51,10 +54,14 @@
 			</div>
 			<div class="order-1 mt-auto mx-auto">
 				<div class="mx-auto m-5">
-				<p class="second-font h1 text-light grey-background d-inline"> Custom 2-in-1 step stools and tables </p>
+					<div class="container grey-background">
+						<p class="second-font h1 text-light d-inline"> Custom 2-in-1 step stools and tables </p>
+					</div>
 				</div>
 				<div class="mx-auto m-3">
-				<p class="second-font h2 text-light grey-background d-inline"> Made for toddlers.  Designed by a mom. </p>
+					<div class="grey-background">
+						<p class="second-font h2 text-light d-inline"> Made for toddlers. Designed by a mom. </p>
+					</div>
 				</div>
 			</div>
 			<div class="order-2 my-auto mx-auto">
@@ -77,53 +84,53 @@
 			<div class="row">
 				<div class="card-deck">
 					<!--Card-->
-						<div class="card mx-3 mb-4">
-							<img src="./images/support-bar.jpg" class="card-img-top" alt="...">
-							<div class="card-body">
-								<h5 class="card-title">Detachable Safety Bar</h5>
-								<p class="card-text">The stool includes a detachable safety bar to keep your little one from
-									falling
-									off. </p>
-								<p class="card-text">It's designed to be easy for them to climb under to get on the stool. </p>
-								<p class="card-text">You can screw it on for extra safety or hide it away under the seat if you
-									don't need it.</p>
-							</div>
+					<div class="card mx-3 mb-4">
+						<img src="./images/support-bar.jpg" class="card-img-top" alt="...">
+						<div class="card-body">
+							<h5 class="card-title">Detachable Safety Bar</h5>
+							<p class="card-text">The stool includes a detachable safety bar to keep your little one from
+								falling
+								off. </p>
+							<p class="card-text">It's designed to be easy for them to climb under to get on the stool. </p>
+							<p class="card-text">You can screw it on for extra safety or hide it away under the seat if you
+								don't need it.</p>
+						</div>
 					</div>
 					<!--End Card-->
 					<!--Card-->
-						<div class="card mx-3 mb-4">
-							<img src="./images/plans.jpg" class="card-img-top" alt="...">
-							<div class="card-body">
-								<h5 class="card-title">Meticulously planned</h5>
-								<p class="card-text">Built with the motto "Form. Fit. Function." </p>
-								<p class="card-text">These stools were carefully planned out with attention to every detail.</p>
-								<p class="card-text">Then tested by a two-year old and reworked to be even better.</p>
-							</div>
+					<div class="card mx-3 mb-4">
+						<img src="./images/plans.jpg" class="card-img-top" alt="...">
+						<div class="card-body">
+							<h5 class="card-title">Meticulously planned</h5>
+							<p class="card-text">Built with the motto "Form. Fit. Function." </p>
+							<p class="card-text">These stools were carefully planned out with attention to every detail.</p>
+							<p class="card-text">Then tested by a two-year old and reworked to be even better.</p>
 						</div>
+					</div>
 					<!--End Card-->
 				</div>
 			</div>
 			<div class="row">
 				<div class="card-deck">
 					<!--Card -->
-						<div class="card mx-3 mb-4">
-							<img src="./images/toddler.jpg" class="card-img-top" alt="...">
-							<div class="card-body">
-								<h5 class="card-title">Toddler approved</h5>
-								<p class="card-text">Young kids love being able to climb up and see what is going on. </p>
-								<p class="card-text">Plus they learn more when they are able to be actively involved.</p>
-							</div>
+					<div class="card mx-3 mb-4">
+						<img src="./images/toddler.jpg" class="card-img-top" alt="...">
+						<div class="card-body">
+							<h5 class="card-title">Toddler approved</h5>
+							<p class="card-text">Young kids love being able to climb up and see what is going on. </p>
+							<p class="card-text">Plus they learn more when they are able to be actively involved.</p>
 						</div>
+					</div>
 					<!--End Card-->
 					<!--Card -->
-						<div class="card mx-4 mb-4">
-							<img src="./images/felt-feet.jpg" class="card-img-top" alt="...">
-							<div class="card-body">
-								<h5 class="card-title">Felt feet</h5>
-								<p class="card-text">Felt feet protect your floor and make it easy for your little person to
-									push the stool around to where they need to go. </p>
-							</div>
+					<div class="card mx-4 mb-4">
+						<img src="./images/felt-feet.jpg" class="card-img-top" alt="...">
+						<div class="card-body">
+							<h5 class="card-title">Felt feet</h5>
+							<p class="card-text">Felt feet protect your floor and make it easy for your little person to
+								push the stool around to where they need to go. </p>
 						</div>
+					</div>
 					<!--End Card-->
 				</div>
 			</div>
@@ -146,7 +153,8 @@
 					</div>
 				</div>
 				<div class="col-md-8">
-					<p>When my son was a little over a year old, one of my big challenges was trying to get anything done in the
+					<p>When my son was a little over a year old, one of my big challenges was trying to get anything done in
+						the
 						kitchen. He would toddle around by my legs trying to get my attention. </p>
 					<p>He'd be happy if I picked him up so he could see, but there were some things I just didn't feel
 						comfortable doing while holding him. </p>
@@ -252,11 +260,11 @@
 			</div>
 			<!-- reCAPTCHA -->
 			<div class=" px-3 pb-3">
-			<div class="g-recaptcha" data-sitekey="6LeoKsIUAAAAAGagfIOzZ1G_yOgLSO8ZGeVb9AG7"></div>
+				<div class="g-recaptcha" data-sitekey="6LeoKsIUAAAAAGagfIOzZ1G_yOgLSO8ZGeVb9AG7"></div>
 			</div>
 			<!--Submit Button-->
 			<div class="form-group px-3">
-			<input type="submit" value="Get quote!">
+				<input type="submit" value="Get quote!">
 			</div>
 			<div class="row">
 				<div class="col-xs-12">
