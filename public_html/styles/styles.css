@@ -16,6 +16,11 @@
 	font-family: 'Hind', sans-serif;
 }
 
+/*Transparent grey background color*/
+.grey-background {
+	background-color: rgba(0,0,0,0.5);
+}
+
 
 .top-image {
 	/* animation to change the bg image */

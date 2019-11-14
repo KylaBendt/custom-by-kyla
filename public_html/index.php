@@ -41,46 +41,28 @@
 <!--Opening (Title) Section-->
 
 <!--TODO: Make it clear what product is early on-->
-<!--TODO: Change contact form to request a quote-->
 <!--TODO: Make opening text easier to read-->
 <!--TODO: Add CTAs-->
 <section>
-	<div class="container-fluid top-image full-section-height">
-		<nav class="navbar navbar-expand-lg navbar-dark">
-			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
-					  aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-				<span class="navbar-toggler-icon"></span>
-			</button>
-
-			<div class="collapse navbar-collapse" id="navbarSupportedContent">
-				<ul class="navbar-nav mr-auto">
-					<li class="nav-item active">
-						<a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="#safety">Safety</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="#about">The Story</a>
-					</li>
-				</ul>
-
-			</div>
-		</nav>
-
-
-		<div class="p-2 d-flex flex-column">
+	<div class="container-fluid top-image">
+		<div class="p-2 d-flex flex-column full-section-height">
 			<div class="mt-auto ml-auto order-3">
 				<h1 class="cursive-font text-light h3">Custom by Kyla</h1>
 			</div>
-			<div class="order-1">
-				<p class="second-font h2 text-light">Made for toddlers.</p>
+			<div class="order-1 mt-auto mx-auto">
+				<div class="mx-auto m-5">
+				<p class="second-font h1 text-light grey-background d-inline"> Custom 2-in-1 step stools and tables </p>
+				</div>
+				<div class="mx-auto m-3">
+				<p class="second-font h2 text-light grey-background d-inline"> Made for toddlers.  Designed by a mom. </p>
+				</div>
 			</div>
-			<div class="order-2 mx-auto">
-				<p class="second-font h1 text-light text-center">Designed by a mom.</p>
+			<div class="order-2 my-auto mx-auto">
+				<a href="#safety" class="btn btn-secondary btn-lg" role="button" aria-pressed="true">Learn More</a>
 			</div>
 			<!--			TODO Add a button for learn more. -->
 		</div>
+
 	</div>
 </section>
 
