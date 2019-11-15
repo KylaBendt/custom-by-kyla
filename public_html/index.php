@@ -49,27 +49,25 @@
 <section>
 	<div class="container-fluid top-image">
 		<div class="p-2 d-flex flex-column full-section-height">
-			<div class="mt-auto ml-auto order-3">
+<!--			<div class="mx-auto mt-auto mb-2">-->
+<!--				<div class="container grey-background">-->
+<!--					<p class="second-font h1 text-light d-inline text-center"> Custom 2-in-1 step stools and-->
+<!--						tables </p>-->
+<!--				</div>-->
+<!--			</div>-->
+<!--			<div class="mx-auto mt-2 mb-1">-->
+<!--				<div class="container grey-background">-->
+<!--					<p class="second-font h2 text-light d-inline text-center"> Made for toddlers. Designed by a mom. </p>-->
+<!--				</div>-->
+<!--			</div>-->
+<!--			<div class="mt-auto mb-2 mx-auto">-->
+<!--				<a href="#safety" class="btn btn-secondary btn-lg" role="button" aria-pressed="true">Learn More</a>-->
+<!--				<a href="#safety" class="btn btn-dark btn-lg" role="button" aria-pressed="true">Request a Quote</a>-->
+<!--			</div>-->
+			<div class="mt-auto ml-auto">
 				<h1 class="cursive-font text-light h3">Custom by Kyla</h1>
 			</div>
-			<div class="order-1 mt-auto mx-auto">
-				<div class="mx-auto m-5">
-					<div class="container grey-background">
-						<p class="second-font h1 text-light d-inline"> Custom 2-in-1 step stools and tables </p>
-					</div>
-				</div>
-				<div class="mx-auto m-3">
-					<div class="grey-background">
-						<p class="second-font h2 text-light d-inline"> Made for toddlers. Designed by a mom. </p>
-					</div>
-				</div>
-			</div>
-			<div class="order-2 my-auto mx-auto">
-				<a href="#safety" class="btn btn-secondary btn-lg" role="button" aria-pressed="true">Learn More</a>
-			</div>
-			<!--			TODO Add a button for learn more. -->
 		</div>
-
 	</div>
 </section>
 
