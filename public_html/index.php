@@ -42,10 +42,6 @@
 </head>
 <body>
 <!--Opening (Title) Section-->
-
-<!--TODO: Make it clear what product is early on-->
-<!--TODO: Make opening text easier to read-->
-<!--TODO: Add CTAs-->
 <section>
 	<div class="container-fluid top-image">
 		<div class="p-2 d-flex flex-column full-section-height">
@@ -71,11 +67,21 @@
 	</div>
 </section>
 
+<!--Section 2-->
+<section>
+	<div class="pt-4 pb-3">
+		<h2 class="text-center text-dark second-font">Convertible 2-in-1 step stools and tables for kids</h2>
+	</div>
+	<div>
+		<p class="lead">I create custom built furniture for kids </p>
+	</div>
+</section>
+
 
 <!-- Built with safety in mind section-->
 <section id="safety">
 	<div class="bg-light">
-		<div class="p-3">
+		<div class="pt-4 pb-3">
 			<h2 class="text-center text-dark second-font">Built with safety in mind</h2>
 		</div>
 		<div class="container">
@@ -139,7 +145,7 @@
 <!-- About us section-->
 <section id="about">
 	<div class="bg-light">
-		<div class="py-3">
+		<div class="pt-4 pb-3">
 			<h2 class="text-center text-dark second-font">My Story</h2>
 		</div>
 		<div class="container">
@@ -173,7 +179,7 @@
 <section id="behindTheScenes">
 	<div class="container">
 		<div>
-			<div class="py-3">
+			<div class="pt-4 pb-3">
 				<h2 class="text-center">Behind the scenes!</h2>
 			</div>
 			<div class="bd-example">
@@ -224,7 +230,7 @@
 <!--Quote Form-->
 <!---->
 <section id="request-quote" class="email-form m-5">
-	<div class="container bg-light p-3 border">
+	<div class="container bg-light px-3 pt-4 pb-3 border">
 		<h2 class="text-center">Request a quote</h2>
 		<form id="quote-form" name="quote-form" action="../php/" method="post">
 			<div class="form-group px-3">
