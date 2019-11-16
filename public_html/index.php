@@ -42,7 +42,7 @@
 </head>
 <body>
 <!--Opening (Title) Section-->
-<section>
+<section id="home">
 	<div class="container-fluid top-image">
 		<div class="p-2 d-flex flex-column full-section-height">
 			<div class="mx-auto mt-auto mb-2">
@@ -57,7 +57,7 @@
 				</div>
 			</div>
 			<div class="mt-auto mb-2 mx-auto text-center">
-				<a href="#safety" class="btn btn-secondary grey-background border border-warning m-2" role="button" aria-pressed="true">Learn More</a>
+				<a href="#intro" class="btn btn-secondary grey-background border border-warning m-2" role="button" aria-pressed="true">Learn More</a>
 				<a href="#request-quote" class="btn btn-secondary grey-background border border-danger m-2" role="button" aria-pressed="true">Request a Quote</a>
 			</div>
 			<div class="mt-auto ml-auto">
@@ -68,21 +68,31 @@
 </section>
 
 <!--Section 2-->
-<section>
-	<div class="pt-4 pb-3">
-		<h2 class="text-center text-dark second-font">Convertible 2-in-1 step stools and tables for kids</h2>
-	</div>
-	<div>
-		<p class="lead">I create custom built furniture for kids </p>
+<section id="intro">
+	<div class="container mb-3">
+		<div class="pt-4 pb-3">
+			<h2 class="text-center text-dark second-font">Convertible 2-in-1 step stools and tables for kids</h2>
+		</div>
+		<div class="row align-items-center">
+			<div class="col-sm-6 col-md-8">
+				<p class="lead">Custom built furniture for kids.  Designed with safety in mind 'cause I'm a parent too. </p>
+			</div>
+			<div class="col-sm-6 col-md-4">
+				<div class="text-center">
+					<img class="img-fluid vertical-image-size rounded border"
+						  src="./images/toddler-b-on-stool-1.jpg" alt="">
+				</div>
+			</div>
+		</div>
 	</div>
 </section>
 
 
 <!-- Built with safety in mind section-->
-<section id="safety">
+<section id="details">
 	<div class="bg-light">
 		<div class="pt-4 pb-3">
-			<h2 class="text-center text-dark second-font">Built with safety in mind</h2>
+			<h2 class="text-center text-dark second-font">Details</h2>
 		</div>
 		<div class="container">
 			<div class="row">
@@ -231,7 +241,10 @@
 <!---->
 <section id="request-quote" class="email-form m-5">
 	<div class="container bg-light px-3 pt-4 pb-3 border">
-		<h2 class="text-center">Request a quote</h2>
+		<h2 class="text-center">Completely customizable - request a quote</h2>
+		<div class="text-center">
+			<p>I'm happy to add any customizations that you're interested in: your child's name painted on the step, custom colors, etc. Anything is possible.  Just let me know what you'd like!</p>
+		</div>
 		<form id="quote-form" name="quote-form" action="../php/" method="post">
 			<div class="form-group px-3">
 				<label for="name">Name</label>

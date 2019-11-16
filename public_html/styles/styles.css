@@ -49,4 +49,6 @@
 	}
 }
 
-
+.vertical-image-size {
+	max-width: 200px;
+}
