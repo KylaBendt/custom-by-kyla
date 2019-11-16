@@ -80,7 +80,7 @@
 			<div class="col-sm-6 col-md-4">
 				<div class="text-center">
 					<img class="img-fluid vertical-image-size rounded border"
-						  src="./images/toddler-b-on-stool-1.jpg" alt="">
+						  src="./images/toddler-b-on-stool-1.jpg" alt="a very happy toddler on a colorful step stool">
 				</div>
 			</div>
 		</div>
@@ -99,7 +99,7 @@
 				<div class="card-deck">
 					<!--Card-->
 					<div class="card mx-3 mb-4">
-						<img src="./images/support-bar.jpg" class="card-img-top" alt="...">
+						<img src="./images/support-bar.jpg" class="card-img-top" alt="a purple safety bar shown on the top part of a child's step stool">
 						<div class="card-body">
 							<h5 class="card-title">Detachable Safety Bar</h5>
 							<p class="card-text">The stool includes a detachable safety bar to keep your little one from
@@ -113,7 +113,7 @@
 					<!--End Card-->
 					<!--Card-->
 					<div class="card mx-3 mb-4">
-						<img src="./images/plans.jpg" class="card-img-top" alt="...">
+						<img src="./images/plans.jpg" class="card-img-top" alt="carefully drawn convertible step stool and table plans">
 						<div class="card-body">
 							<h5 class="card-title">Meticulously planned</h5>
 							<p class="card-text">Built with the motto "Form. Fit. Function." </p>
@@ -128,7 +128,7 @@
 				<div class="card-deck">
 					<!--Card -->
 					<div class="card mx-3 mb-4">
-						<img src="./images/toddler.jpg" class="card-img-top" alt="...">
+						<img src="./images/toddler.jpg" class="card-img-top" alt="a happy toddler standing on a step stool in the kitchen helping to bake">
 						<div class="card-body">
 							<h5 class="card-title">Toddler approved</h5>
 							<p class="card-text">Young kids love being able to climb up and see what is going on. </p>
@@ -138,7 +138,7 @@
 					<!--End Card-->
 					<!--Card -->
 					<div class="card mx-4 mb-4">
-						<img src="./images/felt-feet.jpg" class="card-img-top" alt="...">
+						<img src="./images/felt-feet.jpg" class="card-img-top" alt="a close up of felt pads attached to the bottom of the step stool legs">
 						<div class="card-body">
 							<h5 class="card-title">Felt feet</h5>
 							<p class="card-text">Felt feet protect your floor and make it easy for your little person to
@@ -163,7 +163,7 @@
 				<div class="col-md-4">
 					<div>
 						<img class="img-fluid rounded-circle"
-							  src="./images/kyla.jpg" alt="">
+							  src="./images/kyla.jpg" alt="a picture of me- a mom with a big smile">
 					</div>
 				</div>
 				<div class="col-md-8">
@@ -201,21 +201,21 @@
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img src="./images/quelab.jpg" class="d-block w-100" alt="...">
+							<img src="./images/quelab.jpg" class="d-block w-100" alt="the woodshop at a makerspace with cutout pieces of plywood on a table in the foreground">
 							<div class="carousel-caption d-none d-md-block">
 								<h5>Quelab</h5>
 								<p>This is the local makerspace. It's amazing!</p>
 							</div>
 						</div>
 						<div class="carousel-item">
-							<img src="./images/shop.jpg" class="d-block w-100" alt="...">
+							<img src="./images/shop.jpg" class="d-block w-100" alt="the top part of a step stool, partially assembled">
 							<div class="carousel-caption d-none d-md-block">
 								<h5>Crafted with care</h5>
 								<p>I love the feeling of making something that I can really feel proud of.</p>
 							</div>
 						</div>
 						<div class="carousel-item">
-							<img src="./images/bunny-cutout.jpg" class="d-block w-100" alt="...">
+							<img src="./images/bunny-cutout.jpg" class="d-block w-100" alt="an unfinished piece of wood with a bunny shaped cutout">
 							<div class="carousel-caption d-none d-md-block">
 								<h5>Love the bunnies!</h5>
 								<p>But you can customize it and pick your own design for the cutouts.</p>
@@ -276,9 +276,9 @@
 							 placeholder="Specify the color scheme you'd like and any other customizations you want."></textarea>
 			</div>
 			<!-- reCAPTCHA -->
-<!--			<div class=" px-3 pb-3">-->
-<!--				<div class="g-recaptcha" data-sitekey="6LeoKsIUAAAAAGagfIOzZ1G_yOgLSO8ZGeVb9AG7"></div>-->
-<!--			</div>-->
+			<div class=" px-3 pb-3 mw-100">
+				<div class="g-recaptcha mw-100" data-sitekey="6LeoKsIUAAAAAGagfIOzZ1G_yOgLSO8ZGeVb9AG7"></div>
+			</div>
 			<!--Submit Button-->
 			<div class="form-group px-3">
 				<input type="submit" value="Get quote!">
