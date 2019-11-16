@@ -57,8 +57,10 @@
 				</div>
 			</div>
 			<div class="mt-auto mb-2 mx-auto text-center">
-				<a href="#intro" class="btn btn-secondary grey-background border border-warning m-2" role="button" aria-pressed="true">Learn More</a>
-				<a href="#request-quote" class="btn btn-secondary grey-background border border-danger m-2" role="button" aria-pressed="true">Request a Quote</a>
+				<a href="#intro" class="btn btn-secondary grey-background border border-warning m-2" role="button"
+					aria-pressed="true">Learn More</a>
+				<a href="#request-quote" class="btn btn-secondary grey-background border border-danger m-2" role="button"
+					aria-pressed="true">Request a Quote</a>
 			</div>
 			<div class="mt-auto ml-auto">
 				<h1 class="cursive-font text-light h3">Custom by Kyla</h1>
@@ -75,7 +77,7 @@
 		</div>
 		<div class="row align-items-center">
 			<div class="col-sm-6 col-md-8">
-				<p class="lead">Custom built furniture for kids.  Designed with safety in mind 'cause I'm a parent too. </p>
+				<p class="lead">Custom built furniture for kids. Designed with safety in mind 'cause I'm a parent too. </p>
 			</div>
 			<div class="col-sm-6 col-md-4">
 				<div class="text-center">
@@ -99,7 +101,8 @@
 				<div class="card-deck">
 					<!--Card-->
 					<div class="card mx-3 mb-4">
-						<img src="./images/support-bar.jpg" class="card-img-top" alt="a purple safety bar shown on the top part of a child's step stool">
+						<img src="./images/support-bar.jpg" class="card-img-top"
+							  alt="a purple safety bar shown on the top part of a child's step stool">
 						<div class="card-body">
 							<h5 class="card-title">Detachable Safety Bar</h5>
 							<p class="card-text">The stool includes a detachable safety bar to keep your little one from
@@ -113,7 +116,8 @@
 					<!--End Card-->
 					<!--Card-->
 					<div class="card mx-3 mb-4">
-						<img src="./images/plans.jpg" class="card-img-top" alt="carefully drawn convertible step stool and table plans">
+						<img src="./images/plans.jpg" class="card-img-top"
+							  alt="carefully drawn convertible step stool and table plans">
 						<div class="card-body">
 							<h5 class="card-title">Meticulously planned</h5>
 							<p class="card-text">Built with the motto "Form. Fit. Function." </p>
@@ -128,7 +132,8 @@
 				<div class="card-deck">
 					<!--Card -->
 					<div class="card mx-3 mb-4">
-						<img src="./images/toddler.jpg" class="card-img-top" alt="a happy toddler standing on a step stool in the kitchen helping to bake">
+						<img src="./images/toddler.jpg" class="card-img-top"
+							  alt="a happy toddler standing on a step stool in the kitchen helping to bake">
 						<div class="card-body">
 							<h5 class="card-title">Toddler approved</h5>
 							<p class="card-text">Young kids love being able to climb up and see what is going on. </p>
@@ -138,7 +143,8 @@
 					<!--End Card-->
 					<!--Card -->
 					<div class="card mx-4 mb-4">
-						<img src="./images/felt-feet.jpg" class="card-img-top" alt="a close up of felt pads attached to the bottom of the step stool legs">
+						<img src="./images/felt-feet.jpg" class="card-img-top"
+							  alt="a close up of felt pads attached to the bottom of the step stool legs">
 						<div class="card-body">
 							<h5 class="card-title">Felt feet</h5>
 							<p class="card-text">Felt feet protect your floor and make it easy for your little person to
@@ -201,21 +207,24 @@
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img src="./images/quelab.jpg" class="d-block w-100" alt="the woodshop at a makerspace with cutout pieces of plywood on a table in the foreground">
+							<img src="./images/quelab.jpg" class="d-block w-100"
+								  alt="the woodshop at a makerspace with cutout pieces of plywood on a table in the foreground">
 							<div class="carousel-caption d-none d-md-block">
 								<h5>Quelab</h5>
 								<p>This is the local makerspace. It's amazing!</p>
 							</div>
 						</div>
 						<div class="carousel-item">
-							<img src="./images/shop.jpg" class="d-block w-100" alt="the top part of a step stool, partially assembled">
+							<img src="./images/shop.jpg" class="d-block w-100"
+								  alt="the top part of a step stool, partially assembled">
 							<div class="carousel-caption d-none d-md-block">
 								<h5>Crafted with care</h5>
 								<p>I love the feeling of making something that I can really feel proud of.</p>
 							</div>
 						</div>
 						<div class="carousel-item">
-							<img src="./images/bunny-cutout.jpg" class="d-block w-100" alt="an unfinished piece of wood with a bunny shaped cutout">
+							<img src="./images/bunny-cutout.jpg" class="d-block w-100"
+								  alt="an unfinished piece of wood with a bunny shaped cutout">
 							<div class="carousel-caption d-none d-md-block">
 								<h5>Love the bunnies!</h5>
 								<p>But you can customize it and pick your own design for the cutouts.</p>
@@ -243,7 +252,8 @@
 	<div class="container bg-light px-2 pt-4 pb-3 border">
 		<h2 class="text-center">Completely customizable - request a quote</h2>
 		<div class="text-center">
-			<p>I'm happy to add any customizations that you're interested in: your child's name painted on the step, custom colors, etc. Anything is possible.  Just let me know what you'd like!</p>
+			<p>I'm happy to add any customizations that you're interested in: your child's name painted on the step, custom
+				colors, etc. Anything is possible. Just let me know what you'd like!</p>
 		</div>
 		<form id="quote-form" name="quote-form" action="../php/" method="post">
 			<div class="form-group px-3">
@@ -278,7 +288,8 @@
 			<!-- reCAPTCHA -->
 			<div class="px-3 pb-3">
 				<!--Display the compact version if the screen is smaller than small-->
-				<div class="g-recaptcha d-inline d-sm-none" data-size="compact" data-sitekey="6LeoKsIUAAAAAGagfIOzZ1G_yOgLSO8ZGeVb9AG7"></div>
+				<div class="g-recaptcha d-inline d-sm-none" data-size="compact"
+					  data-sitekey="6LeoKsIUAAAAAGagfIOzZ1G_yOgLSO8ZGeVb9AG7"></div>
 				<div class="g-recaptcha d-none d-sm-inline" data-sitekey="6LeoKsIUAAAAAGagfIOzZ1G_yOgLSO8ZGeVb9AG7"></div>
 			</div>
 			<!--Submit Button-->
