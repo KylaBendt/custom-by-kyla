@@ -239,8 +239,8 @@
 
 <!--Quote Form-->
 <!---->
-<section id="request-quote" class="email-form m-5">
-	<div class="container bg-light px-3 pt-4 pb-3 border">
+<section id="request-quote" class="email-form my-4 mx-2">
+	<div class="container bg-light px-2 pt-4 pb-3 border">
 		<h2 class="text-center">Completely customizable - request a quote</h2>
 		<div class="text-center">
 			<p>I'm happy to add any customizations that you're interested in: your child's name painted on the step, custom colors, etc. Anything is possible.  Just let me know what you'd like!</p>
@@ -276,8 +276,10 @@
 							 placeholder="Specify the color scheme you'd like and any other customizations you want."></textarea>
 			</div>
 			<!-- reCAPTCHA -->
-			<div class=" px-3 pb-3 mw-100">
-				<div class="g-recaptcha mw-100" data-sitekey="6LeoKsIUAAAAAGagfIOzZ1G_yOgLSO8ZGeVb9AG7"></div>
+			<div class="px-3 pb-3">
+				<!--Display the compact version if the screen is smaller than small-->
+				<div class="g-recaptcha d-inline d-sm-none" data-size="compact" data-sitekey="6LeoKsIUAAAAAGagfIOzZ1G_yOgLSO8ZGeVb9AG7"></div>
+				<div class="g-recaptcha d-none d-sm-inline" data-sitekey="6LeoKsIUAAAAAGagfIOzZ1G_yOgLSO8ZGeVb9AG7"></div>
 			</div>
 			<!--Submit Button-->
 			<div class="form-group px-3">
