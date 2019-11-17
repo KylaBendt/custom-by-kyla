@@ -16,10 +16,18 @@
 	font-family: 'Hind', sans-serif;
 }
 
+
+/*Colors*/
 /*Transparent grey background color*/
-.grey-background {
-	background-color: rgba(0,0,0,0.7);
+.grey-background-7 {
+	background-color: rgba(0,0,0,0.6);
 }
+
+/*Transparent grey background color */
+.grey-background-9 {
+	background-color: rgba(0,0,0,0.9);
+}
+
 
 
 .top-image {

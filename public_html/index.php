@@ -46,20 +46,20 @@
 	<div class="container-fluid top-image">
 		<div class="p-2 d-flex flex-column full-section-height">
 			<div class="mx-auto mt-auto mb-2">
-				<div class="container grey-background text-center rounded-top border border-white">
+				<div class="container grey-background-7 text-center rounded-top border border-light">
 					<p class="second-font h1 text-light d-inline"> Custom 2-in-1 step stools and
 						tables </p>
 				</div>
 			</div>
 			<div class="mx-auto mt-2 mb-1">
-				<div class="container grey-background text-center rounded-bottom border border-white">
+				<div class="container grey-background-7 text-center rounded-bottom border border-light">
 					<p class="second-font h3 text-light d-inline"> Made for toddlers. Designed by a mom. </p>
 				</div>
 			</div>
 			<div class="mt-auto mb-2 mx-auto text-center">
-				<a href="#intro" class="btn btn-secondary grey-background border border-warning m-2" role="button"
+				<a href="#intro" class="btn btn-secondary grey-background-9 border border-warning m-2" role="button"
 					aria-pressed="true">Learn More</a>
-				<a href="#request-quote" class="btn btn-secondary grey-background border border-danger m-2" role="button"
+				<a href="#request-quote" class="btn btn-secondary grey-background-9 border border-danger m-2" role="button"
 					aria-pressed="true">Request a Quote</a>
 			</div>
 			<div class="mt-auto ml-auto">
@@ -81,7 +81,7 @@
 			</div>
 			<div class="col-sm-6 col-md-4">
 				<div class="text-center">
-					<img class="img-fluid vertical-image-size rounded border"
+					<img class="img-fluid vertical-image-size rounded border border-primary"
 						  src="./images/toddler-b-on-stool-1.jpg" alt="a very happy toddler on a colorful step stool">
 				</div>
 			</div>
@@ -100,7 +100,7 @@
 			<div class="row">
 				<div class="card-deck">
 					<!--Card-->
-					<div class="card mx-3 mb-4">
+					<div class="card mx-3 mb-4 border border-primary">
 						<img src="./images/support-bar.jpg" class="card-img-top"
 							  alt="a purple safety bar shown on the top part of a child's step stool">
 						<div class="card-body">
@@ -115,7 +115,7 @@
 					</div>
 					<!--End Card-->
 					<!--Card-->
-					<div class="card mx-3 mb-4">
+					<div class="card mx-3 mb-4 border border-success">
 						<img src="./images/plans.jpg" class="card-img-top"
 							  alt="carefully drawn convertible step stool and table plans">
 						<div class="card-body">
@@ -131,7 +131,7 @@
 			<div class="row">
 				<div class="card-deck">
 					<!--Card -->
-					<div class="card mx-3 mb-4">
+					<div class="card mx-3 mb-4  border border-warning">
 						<img src="./images/toddler.jpg" class="card-img-top"
 							  alt="a happy toddler standing on a step stool in the kitchen helping to bake">
 						<div class="card-body">
@@ -142,7 +142,7 @@
 					</div>
 					<!--End Card-->
 					<!--Card -->
-					<div class="card mx-4 mb-4">
+					<div class="card mx-3 mb-4  border border-danger">
 						<img src="./images/felt-feet.jpg" class="card-img-top"
 							  alt="a close up of felt pads attached to the bottom of the step stool legs">
 						<div class="card-body">
@@ -168,22 +168,22 @@
 			<div class="row">
 				<div class="col-md-4">
 					<div>
-						<img class="img-fluid rounded-circle"
+						<img class="img-fluid rounded-circle border border-primary"
 							  src="./images/kyla.jpg" alt="a picture of me- a mom with a big smile">
 					</div>
 				</div>
 				<div class="col-md-8">
-					<p>When my son was a little over a year old, one of my big challenges was trying to get anything done in
-						the
-						kitchen. He would toddle around by my legs trying to get my attention. </p>
+					<p>Hi! I'm Kyla Bendt. When my son was a year old, one of my big challenges was trying to get anything
+						done in the kitchen. My little guy would toddle around by my legs trying to get my attention. </p>
 					<p>He'd be happy if I picked him up so he could see, but there were some things I just didn't feel
 						comfortable doing while holding him. </p>
-					<p>I decided he needed to be on my level, but I also wanted him to be safe. He was still perfecting
-						balancing and walking and I didn't want him to stand on a chair he could fall off of. </p>
+					<p>It was clear he wanted to take part in the action, but I also wanted him to be safe.
+						He was still perfecting balancing and walking and I didn't want him to stand on a chair he could fall
+						off of. </p>
 					<p>I had also just started a membership at Quelab, a makerspace in Albuquerque. So I decided to make
 						something to solve my problem. </p>
-					<p>One thing about being a parent is that we all share some common problems and I wanted to share the
-						solution I had with other parents. God knows I need them to share their solutions with me!</p>
+					<p>One thing about being a parent is that we all share some common problems and after seeing how well the
+						stool I had built worked, I wanted to share the solution I had with other parents. </p>
 				</div>
 			</div>
 		</div>
@@ -198,7 +198,7 @@
 			<div class="pt-4 pb-3">
 				<h2 class="text-center">Behind the scenes!</h2>
 			</div>
-			<div class="bd-example">
+			<div class="bd-example border border-danger border">
 				<div id="carouselCaptions" class="carousel slide" data-ride="carousel">
 					<ol class="carousel-indicators">
 						<li data-target="#carouselCaptions" data-slide-to="0" class="active"></li>
@@ -248,8 +248,8 @@
 
 <!--Quote Form-->
 <!---->
-<section id="request-quote" class="email-form my-4 mx-2">
-	<div class="container bg-light px-2 pt-4 pb-3 border">
+<section id="request-quote" class="email-form my-5 mx-2">
+	<div class="container bg-light px-2 pt-4 pb-3 border border-primary rounded">
 		<h2 class="text-center">Completely customizable - request a quote</h2>
 		<div class="text-center">
 			<p>I'm happy to add any customizations that you're interested in: your child's name painted on the step, custom
