@@ -307,12 +307,10 @@
 
 
 <!--Footer-->
-<section>
-	<div class="container-fluid">
-		<div class="bg-dark text-light">
+<footer class="footer py-2 bg-dark">
+	<div class="container text-light ">
 			<p class="text-center">By Kyla Bendt</p>
-		</div>
 	</div>
-</section>
+</footer>
 </body>
 </html>
