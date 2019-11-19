@@ -163,17 +163,17 @@
 <section id="about">
 	<div class="bg-light">
 		<div class="pt-4 pb-3">
-			<h2 class="text-center text-dark second-font">My Story</h2>
+			<h2 class="text-center text-dark second-font h1">My Story</h2>
 		</div>
 		<div class="container">
 			<div class="row">
 				<div class="col-md-4">
-					<div>
+					<div class="pb-4">
 						<img class="img-fluid rounded-circle border border-primary"
 							  src="./images/kyla.jpg" alt="a picture of me- a mom with a big smile">
 					</div>
 				</div>
-				<div class="col-md-8">
+				<div class="col-md-8 pb-4">
 					<p>Hi! I'm Kyla Bendt. When my son was a year old, one of my big challenges was trying to get anything
 						done in the kitchen. My little guy would toddle around by my legs trying to get my attention. </p>
 					<p>He'd be happy if I picked him up so he could see, but there were some things I just didn't feel
@@ -197,9 +197,9 @@
 	<div class="container">
 		<div>
 			<div class="pt-4 pb-3">
-				<h2 class="text-center">Behind the scenes!</h2>
+				<h2 class="text-center h1">Behind the scenes!</h2>
 			</div>
-			<div class="bd-example border border-danger border">
+			<div class="bd-example border-dark border">
 				<div id="carouselCaptions" class="carousel slide" data-ride="carousel">
 					<ol class="carousel-indicators">
 						<li data-target="#carouselCaptions" data-slide-to="0" class="active"></li>
@@ -250,8 +250,8 @@
 <!--Quote Form-->
 <!---->
 <section id="request-quote" class="email-form my-5 mx-2">
-	<div class="container bg-light px-2 pt-4 pb-3 border border-primary rounded">
-		<h2 class="text-center">Completely customizable - request a quote</h2>
+	<div class="container bg-light px-2 pt-4 pb-3 border border-dark rounded">
+		<h2 class="text-center h1">Completely customizable - request a quote</h2>
 		<div class="text-center">
 			<p>I'm happy to add any customizations that you're interested in: your child's name painted on the step, custom
 				colors, etc. Anything is possible. Just let me know what you'd like!</p>
