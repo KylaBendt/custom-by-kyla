@@ -22,12 +22,9 @@
 			  crossorigin="anonymous"></script>
 
 	<!-- jQuery Form, Additional Methods, Validate -->
-	<script type="text/javascript"
-			  src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/4.2.2/jquery.form.min.js"></script>
-	<script type="text/javascript"
-			  src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"></script>
-	<script type="text/javascript"
-			  src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/additional-methods.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/4.2.2/jquery.form.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/additional-methods.min.js"></script>
 
 	<!-- JavaScript Form Validator -->
 	<script src="js/form-validate.js"></script>
@@ -248,7 +245,6 @@
 
 
 <!--Quote Form-->
-<!---->
 <section id="request-quote" class="email-form my-5 mx-2">
 	<div class="container bg-light px-2 pt-4 pb-3 border border-dark rounded">
 		<h2 class="text-center h1">Completely customizable - request a quote</h2>
