@@ -46,13 +46,13 @@
 	<div class="container-fluid top-image">
 		<div class="p-2 d-flex flex-column full-section-height">
 			<div class="mx-auto mt-auto mb-2">
-				<div class="container grey-background-7 text-center rounded-top border border-light">
+				<div class="container grey-background-7 text-center rounded border border-light">
 					<p class="second-font h1 text-light d-inline"> Custom 2-in-1 step stools and
 						tables </p>
 				</div>
 			</div>
 			<div class="mx-auto mt-2 mb-1">
-				<div class="container grey-background-7 text-center rounded-bottom border border-light">
+				<div class="container grey-background-7 text-center rounded border border-light">
 					<p class="second-font h3 text-light d-inline"> Made for toddlers. Designed by a mom. </p>
 				</div>
 			</div>
@@ -72,14 +72,15 @@
 <!--Section 2-->
 <section id="intro">
 	<div class="container mb-3">
-		<div class="pt-4 pb-3">
-			<h2 class="text-center text-dark second-font">Convertible 2-in-1 step stools and tables for kids</h2>
+		<div class="pt-5 pb-3">
+			<h2 class="h1 text-center text-dark second-font">Convertible 2-in-1 step stools and tables for kids</h2>
 		</div>
 		<div class="row align-items-center">
-			<div class="col-sm-6 col-md-8">
-				<p class="lead">Custom built furniture for kids. Designed with safety in mind 'cause I'm a parent too. </p>
+			<div class="col-sm-6 col-md-8 text-center">
+				<p class="h2 py-3">Custom built furniture for kids.</p>
+				<p class="h2 py-3 emphasis">Designed with safety in mind 'cause I'm a parent too. </p>
 			</div>
-			<div class="col-sm-6 col-md-4">
+			<div class="col-sm-6 col-md-4 pb-3">
 				<div class="text-center">
 					<img class="img-fluid vertical-image-size rounded border border-primary"
 						  src="./images/toddler-b-on-stool-1.jpg" alt="a very happy toddler on a colorful step stool">
@@ -90,11 +91,11 @@
 </section>
 
 
-<!-- Built with safety in mind section-->
+<!-- Details section-->
 <section id="details">
-	<div class="bg-light">
-		<div class="pt-4 pb-3">
-			<h2 class="text-center text-dark second-font">Details</h2>
+	<div class="bg-dark pb-5">
+		<div class="pt-4 pb-3 text-center">
+			<h2 class="text-center text-light h1">Details</h2>
 		</div>
 		<div class="container">
 			<div class="row">
@@ -309,7 +310,7 @@
 <!--Footer-->
 <footer class="footer py-2 bg-dark">
 	<div class="container text-light ">
-			<p class="text-center">By Kyla Bendt</p>
+		<p class="text-center">By Kyla Bendt</p>
 	</div>
 </footer>
 </body>
