@@ -54,9 +54,9 @@
 				</div>
 			</div>
 			<div class="mt-auto mb-2 mx-auto text-center">
-				<a href="#intro" class="btn btn-secondary grey-background-9 border border-warning m-2" role="button"
+				<a href="#intro" class="btn btn-dark btn-lg grey-background-9 border border-warning m-2"
 					aria-pressed="true">Learn More</a>
-				<a href="#request-quote" class="btn btn-secondary grey-background-9 border border-danger m-2" role="button"
+				<a href="#request-quote" class="btn btn-dark btn-lg grey-background-9 border border-danger m-2"
 					aria-pressed="true">Request a Quote</a>
 			</div>
 			<div class="mt-auto ml-auto">
