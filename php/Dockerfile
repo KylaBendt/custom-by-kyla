@@ -12,7 +12,7 @@ RUN composer install \
 # main build stage
 
 
-FROM kyla/pwp
+FROM gkephart/alpine-php-apache
 
 # copy vendor into the project from the prebuild stage
 COPY --from=vendor /app/vendor/ /app/public/vendor
