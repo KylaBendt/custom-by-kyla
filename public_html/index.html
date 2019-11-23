@@ -288,6 +288,7 @@
 				<!--Display the compact version if the screen is smaller than small-->
 				<div class="g-recaptcha d-inline d-sm-none" data-size="compact"
 					  data-sitekey="6LeoKsIUAAAAAGagfIOzZ1G_yOgLSO8ZGeVb9AG7"></div>
+				<!--Otherwise, display the normal version-->
 				<div class="g-recaptcha d-none d-sm-inline" data-sitekey="6LeoKsIUAAAAAGagfIOzZ1G_yOgLSO8ZGeVb9AG7"></div>
 			</div>
 			<!--Submit Button-->
@@ -307,10 +308,31 @@
 <!--Footer-->
 <footer class="footer  mb-0 bg-dark">
 	<div class="container pb-1 pt-2 text-center ">
-		<a href="https://www.instagram.com/kylabendt/" class="d-inline-block mx-3" title="Follow me on IG!"><span class="d-inline-block fab fa-instagram fa-lg"></span></a>
-		<a href="https://www.facebook.com/kyla.bendt" class="d-inline-block mx-3" title="Find me on Facebook!"><span class="d-inline-block fab fa-facebook-f fa-lg"></span></a>
-		<a href="https://www.livehoppy.com/" class="d-inline-block mx-3" title="Read my blog!"><span class="d-inline-block fab fa-wordpress-simple fa-lg"></span></a>
-		<a href="https://github.com/KylaBendt/custom-by-kyla" title="This site coded as a Deep Dive Coding Bootcamp project.  View site code on Github. " class="d-inline-block mx-3"><span class="d-inline-block fab fa-github fa-lg"></span></a>
+		<!--Display small icons for larger screens fa-lg is a fontawesome class-->
+		<div class="d-md-inline d-none fa-lg">
+			<a href="https://www.instagram.com/kylabendt/" class="d-inline-block mx-3" title="Follow me on IG!"><span
+				class="d-inline-block fab fa-instagram"></span></a>
+			<a href="https://www.facebook.com/kyla.bendt" class="d-inline-block mx-3" title="Find me on Facebook!"><span
+				class="d-inline-block fab fa-facebook-f"></span></a>
+			<a href="https://www.livehoppy.com/" class="d-inline-block mx-3" title="Read my blog!"><span
+				class="d-inline-block fab fa-wordpress-simple"></span></a>
+			<a href="https://github.com/KylaBendt/custom-by-kyla"
+				title="This site coded as a Deep Dive Coding Bootcamp project.  View site code on Github. "
+				class="d-inline-block mx-3"><span class="d-inline-block fab fa-github"></span></a>
+		</div>
+		<!--Display larger icons for mobile fa-2x is a fontawesome class to make icons bigger-->
+		<div class="d-md-none fa-2x">
+			<a href="https://www.instagram.com/kylabendt/" class="d-inline-block mx-3" title="Follow me on IG!"><span
+				class="d-inline-block fab fa-instagram "></span></a>
+			<a href="https://www.facebook.com/kyla.bendt" class="d-inline-block mx-3" title="Find me on Facebook!"><span
+				class="d-inline-block fab fa-facebook-f"></span></a>
+			<a href="https://www.livehoppy.com/" class="d-inline-block mx-3" title="Read my blog!"><span
+				class="d-inline-block fab fa-wordpress-simple"></span></a>
+			<a href="https://github.com/KylaBendt/custom-by-kyla"
+				title="This site coded as a Deep Dive Coding Bootcamp project.  View site code on Github. "
+				class="d-inline-block mx-3"><span class="d-inline-block fab fa-github"></span></a>
+		</div>
+		<!--End of screen dependent icon section-->
 		<p class="text-danger pt-1 mb-0">By Kyla Bendt</p>
 	</div>
 </footer>
