@@ -12,3 +12,7 @@ Your content strategy for all sections is well-detailed when it comes to both co
 If you need additional resourcers for the development aspects of your project, feel free to reach out to the instructors so that we may guide you in the direction of some functionality you may be seeking. Continue on moving forward with the development of your PWP. Keep up the good work!
 
 This passes at Tier IV
+
+## PWP Milestone 4 feedback
+Looks good! Submitted on time. The theme design is consistent and fits with the intended design. Git hygiene is good and messages were clear and concise, demonstrated ability to handle version control. Renders well on mobile. 
+Passes at Tier IV.
