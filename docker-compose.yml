@@ -14,4 +14,3 @@ services:
          - ./dh-param/dhparam-2048.pem:/etc/ssl/certs/dhparam-2048.pem
          - /docker-volumes/pwp/etc/letsencrypt/live/custombykyla.com/fullchain.pem:/etc/letsencrypt/live/custombykyla.com/fullchain.pem
          - /docker-volumes/pwp/etc/letsencrypt/live/custombykyla.com/privkey.pem:/etc/letsencrypt/live/custombykyla.com/privkey.pem
-
